@@ -1,4 +1,4 @@
-# Model iNTERPRETATION techniques
+# Model Interpretation techniques
 
 1. Target distribution visualization
 2. SMOTE over sampling
